@@ -1,5 +1,4 @@
-## [Detection of Adaptive Histogram Equalization
-Robust Against JPEG Compression]
+## [Detection of Adaptive Histogram Equalization Robust Against JPEG Compression]
 
 (https://ieeexplore.ieee.org/document/8401564)
 
